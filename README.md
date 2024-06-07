@@ -1,0 +1,1 @@
+This is a static website, i hae devoloped with this using the tools like css, html, and bootsrap. This is a tourism website to explore the places and in the places what are the popular ones to visit and explore them.
